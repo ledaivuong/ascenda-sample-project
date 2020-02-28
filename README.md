@@ -24,7 +24,7 @@ npm run test
 
 ### Generate HTML report
 ```
-After you run test it will generate an html report located at; ./report/test-report.html
+After you run test it will generate an html report located at: ./report/test-report.html
 ```
 
 ### Video Demo
