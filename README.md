@@ -12,7 +12,7 @@
 
 ### Install Dependencies
 ```
-https://github.com/ledaivuong/ascenda-sample-project.git
+git clone https://github.com/ledaivuong/ascenda-sample-project.git
 cd ascenda-sample-project
 npm install
 ```
